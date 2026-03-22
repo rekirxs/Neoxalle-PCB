@@ -18,6 +18,8 @@ This repository contains the design files and the images of each part.
 ![Schematic](images/schematic.png)
 
 
+![CAD](images/cad.png)
+
 ![3D](images/3d.png)
 
 **Bill of Materials (BOM)**
