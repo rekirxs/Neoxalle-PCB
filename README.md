@@ -2,6 +2,11 @@
 
 A full PCB work for a sport sensorial reaction device called NeoXalle.
 
+[![Watch the video](https://img.youtube.com/vi/leAVq9ZJ1fE/maxresdefault.jpg)](https://youtu.be/leAVq9ZJ1fE)
+
+### [Watch this video on YouTube](https://youtu.be/leAVq9ZJ1fE)
+
+
 **Overview**
 
 This repository contains the design files and the images of each part.
