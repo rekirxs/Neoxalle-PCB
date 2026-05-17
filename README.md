@@ -21,6 +21,8 @@ This repository contains the design files and the images of each part.
 
 ![3D](images/3d.png)
 
+Onshape: https://cad.onshape.com/documents/914ab1e3f9de5857bd04cad5/w/fe3775e11ed4b5ce7c2d1721/e/2a4a9405b78e8a972a361091?renderMode=0&uiState=6a0a02086fff7314551b3a2c
+
 |Item                        |Description                        |Quantity|Unit Price ($)|Total Price ($)|URL                                                 |Running Total|
 |----------------------------|-----------------------------------|--------|--------------|---------------|----------------------------------------------------|-------------|
 |ESP32-C3 Super Mini         |Microcontroller                    |1       |3.48          |3.48           |https://es.aliexpress.com/item/1005007941259180.html|3.48         |
