@@ -2,6 +2,8 @@
 
 A full PCB work for a sport sensorial reaction device called NeoXalle.
 
+The function of this pcb is to be the main board to control the whole system of the multisensorial output and input, such as a motor vibrator and led ring, this includes a Esp32c3 to connect thru ESP-NOW to the master that connects to the mobile app, down below theres a video showing off the prototype and its function with a table tennis practice.
+
 **Overview**
 
 This repository contains the design files and the images of each part.
